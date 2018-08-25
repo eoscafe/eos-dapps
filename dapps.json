@@ -1,6 +1,7 @@
 [
   {
     "name": "EOS Bet Casino",
+    "description": "The largest casino and gaming platform on the powerful EOS blockchain. We offer fully feeless, trustless and provably fair games. 100% of EOS earned on the platform is returned to holders of our BET token.",
     "symbol": "BET",
     "accounts": ["eosbetdice11", "eosbetcasino", "betdividends"],
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eosbet.png",
@@ -9,6 +10,7 @@
   },
   {
     "name": "EOS Knights",
+    "description": "An idle RPG on iOS and Android set to be the earliest live implementations of the EOS blockchain in a game.",
     "symbol": "",
     "accounts": ["eosknightsio"],
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eosknights.png",
