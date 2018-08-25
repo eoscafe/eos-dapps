@@ -5,8 +5,10 @@
     "symbol": "BET",
     "accounts": ["eosbetdice11", "eosbetcasino", "betdividends"],
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eosbet.png",
-    "website": "https://www.eosbet.io/",
-    "telegram": "https://t.me/eosbetcasino"
+    "links": [
+      { "name": "website", "url": "https://www.eosbet.io/" },
+      { "name": "telegram", "url": "https://t.me/eosbetcasino" }
+    ]
   },
   {
     "name": "EOS Knights",
@@ -14,7 +16,9 @@
     "symbol": "",
     "accounts": ["eosknightsio"],
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eosknights.png",
-    "website": "https://eosknights.io",
-    "telegram": "https://t.me/joinchat/IAL3EwvtSVMml_qkYPXbrw"
+     "links": [
+      { "name": "website", "url": "https://eosknights.io" },
+      { "name": "telegram", "url": "https://t.me/joinchat/IAL3EwvtSVMml_qkYPXbrw" }
+    ]
   }
 ]
