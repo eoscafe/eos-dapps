@@ -6,8 +6,8 @@
     "accounts": ["eosbetdice11", "eosbetcasino", "betdividends"],
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eosbet.png",
     "links": [
-      { "name": "website", "url": "https://www.eosbet.io/" },
-      { "name": "telegram", "url": "https://t.me/eosbetcasino" }
+      { "name": "Website", "url": "https://www.eosbet.io/" },
+      { "name": "Telegram", "url": "https://t.me/eosbetcasino" }
     ]
   },
   {
@@ -17,8 +17,8 @@
     "accounts": ["eosknightsio"],
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eosknights.png",
      "links": [
-      { "name": "website", "url": "https://eosknights.io" },
-      { "name": "telegram", "url": "https://t.me/joinchat/IAL3EwvtSVMml_qkYPXbrw" }
+      { "name": "Website", "url": "https://eosknights.io" },
+      { "name": "Telegram", "url": "https://t.me/joinchat/IAL3EwvtSVMml_qkYPXbrw" }
     ]
   }
 ]
