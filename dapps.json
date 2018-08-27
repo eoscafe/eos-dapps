@@ -17,7 +17,7 @@
     "symbol": "",
     "accounts": ["eosknightsio"],
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eosknights.png",
-     "links": [
+    "links": [
       { "name": "Website", "url": "https://eosknights.io" },
       { "name": "Game", "url": "http://game.eosknights.io" },
       { "name": "Telegram", "url": "https://t.me/joinchat/IAL3EwvtSVMml_qkYPXbrw" }
@@ -29,7 +29,7 @@
     "symbol": "IQ",
     "accounts": ["everipediaiq", "eparticlectr"],
     "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/everipedia.png",
-     "links": [
+    "links": [
       { "name": "Website", "url": "https://iqnetwork.io/" },
       { "name": "Whitepaper", "url": "https://everipedia.org/wiki/everipedia-whitepaper/" },
       { "name": "Telegram", "url": "https://t.me/everipedia" },
