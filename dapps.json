@@ -24,16 +24,14 @@
     ]
   },
   {
-    "name": "Everipedia",
-    "description": "The Everipedia team plans to build a modern, convenient and decentralized new encyclopedia website, and this goal will be realized with the development of blockchain technology. The new version of Everipedia under development will be based on the EOS network, which will have features such as community autonomy, shielding preventation, and contribution incentives compared to the current version of Everipedia. Founded in 2014, the business network encyclopedia Everipedia, whose name derives from the English words 'Everything' and 'Encyclopedia', is owned by Everipedia.Inc and has not yet adopted blockchain technology. As of December 2017, Everipedia is the largest English encyclopedia with more than six million entries, including all English entries of Wikipedia. Everipedia's requirements for attention are more relaxed, so it has more entries than Wikipedia.",
-    "symbol": "IQ",
-    "accounts": ["everipediaiq", "eparticlectr"],
-    "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/everipedia.png",
+    "name": "EosPick",
+    "description": "EosPick, first lottery DApp on EOS mainnet, by drawing the numbers with the EOS Block TxHash, guarantees absolute fair and transparency.",
+    "symbol": "",
+    "accounts": ["eosshishicai"],
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eospick.png",
     "links": [
-      { "name": "Website", "url": "https://iqnetwork.io/" },
-      { "name": "Whitepaper", "url": "https://everipedia.org/wiki/everipedia-whitepaper/" },
-      { "name": "Telegram", "url": "https://t.me/everipedia" },
-      { "name": "Token Contract", "url": "https://bloks.io/account/everipediaiq" }
+      { "name": "Website", "url": "https://eosshishicai.com/" },
+      { "name": "Telegram", "url": "https://t.me/eosshishicai" }
     ]
   }
 ]
