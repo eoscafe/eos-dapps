@@ -62,5 +62,18 @@
       { "name": "Constitution", "url": "https://raw.githubusercontent.com/eosdac/constitution/v2/constitution.md" },
       { "name": "Member Client", "url": "https://members.eosdac.io" }
     ]
+  }, 
+   {
+    "name": "DEOS Games",
+    "description": "Deos Games are casino games built on EOS blockchain. Play zero edge games with our DEOS token and participate in bankroll staking.",
+    "symbol": "DEOS",
+    "accounts": ["thedeosgames", "deosgameissu"],
+    "logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/deosgames.png",
+    "links": [
+      { "name": "Website", "url": "https://deosgames.com" },
+      { "name": "Dice Game", "url": "https://app.deosgames.com" },
+      { "name": "Telegram", "url": "https://t.me/deosgameschat" }
+      { "name": "Medium", "url": "https://medium.com/deos-games" }
+    ]
   }
 ]
