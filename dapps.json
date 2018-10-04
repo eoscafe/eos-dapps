@@ -63,18 +63,18 @@
 		]
 	},
 	{
-		"name": "EosPick",
-		"description": "EosPick, first lottery DApp on EOS mainnet, by drawing the numbers with the EOS Block TxHash, guarantees absolute fair and transparency.",
+		"name": "EOSPlay Lottery & Dice",
+		"description": "EOSPLAY is a revolutionary game center in which players bet against externally generated EOS main net hash, guarantees instant betting, absolute fairness and transparency.",
 		"symbol": "",
-		"accounts": ["eosshishicai"],
+		"accounts": ["eosplaybrand"],
 		"logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eospick.png",
 		"links": [{
 				"name": "Website",
-				"url": "https://eosshishicai.com/"
+				"url": "https://eosplay.co/"
 			},
 			{
 				"name": "Telegram",
-				"url": "https://t.me/eosshishicai"
+				"url": "https://t.me/eosplay"
 			}
 		]
 	},
