@@ -63,18 +63,18 @@
 		]
 	},
 	{
-		"name": "EosPick",
-		"description": "EosPick, first lottery DApp on EOS mainnet, by drawing the numbers with the EOS Block TxHash, guarantees absolute fair and transparency.",
+		"name": "EOSPlay Lottery & Dice",
+		"description": "EOSPLAY is a revolutionary game center in which players bet against externally generated EOS main net hash, guarantees instant betting, absolute fairness and transparency.",
 		"symbol": "",
-		"accounts": ["eosshishicai"],
+		"accounts": ["eosplaybrand"],
 		"logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/eospick.png",
 		"links": [{
 				"name": "Website",
-				"url": "https://eosshishicai.com/"
+				"url": "https://eosplay.co/"
 			},
 			{
 				"name": "Telegram",
-				"url": "https://t.me/eosshishicai"
+				"url": "https://t.me/eosplay"
 			}
 		]
 	},
@@ -166,5 +166,33 @@
 				"url": "https://twitter.com/bet_dice"
 			}
 		]
-	}
+	},
+  {
+    "name": "Chintai",
+    "description": "Chintai is a community-owned, feeless, 100% on-chain, multisig decentralized token leasing platform where users can lend their EOS on the market to earn interest from other users to borrow who need access to CPU/NET bandwidth.",
+    "symbol": "",
+    "accounts": ["chintailease"],
+    "logo": "https://chintai.io/static/images/chinta-icon-black.jpg",
+    "links": [{
+        "name": "Website",
+        "url": "http://chintai.io"
+      },
+      {
+        "name": "EOS Leasing Platform",
+        "url": "https://eos.chintai.io/exchange/EOS14D"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/ChintaiEOS"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/chintaieos"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@ChintaiEOS"
+      }
+    ]
+  }
 ]
