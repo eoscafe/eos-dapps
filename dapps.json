@@ -137,5 +137,33 @@
 				"url": "https://medium.com/deos-games"
 			}
 		]
-	}
+	},
+  {
+    "name": "Chintai",
+    "description": "Chintai is a community-owned, feeless, 100% on-chain, multisig decentralized token leasing platform where users can lend their EOS on the market to earn interest from other users to borrow who need access to CPU/NET bandwidth.",
+    "symbol": "",
+    "accounts": ["chintailease"],
+    "logo": "https://chintai.io/static/images/chinta-icon-black.jpg",
+    "links": [{
+        "name": "Website",
+        "url": "http://chintai.io"
+      },
+      {
+        "name": "EOS Leasing Platform",
+        "url": "https://eos.chintai.io/exchange/EOS14D"
+      },
+      {
+        "name": "Telegram",
+        "url": "https://t.me/ChintaiEOS"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/chintaieos"
+      },
+      {
+        "name": "Medium",
+        "url": "https://medium.com/@ChintaiEOS"
+      }
+    ]
+  }
 ]
