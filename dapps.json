@@ -137,5 +137,34 @@
 				"url": "https://medium.com/deos-games"
 			}
 		]
+	},
+	{
+		"name": "BetDice",
+		"description": "BetDice is the largest gaming platform on EOS blockchain. Users can earn DICE tokens from playing, and then get dividends from staking. Both the platform and the token are based on user-centered design, which giving our users the best gaming experience.",
+		"symbol": "DICE",
+		"accounts": [
+			"betdiceadmin", 
+			"betdicetoken", 
+			"betdicelucky", 
+			"betdicesales", 
+			"betdiceusers", 
+			"betdiceshare",
+			"betdicesaver"
+		],
+		"logo": "https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/betdice.jpg",
+		"links": [
+			{
+				"name": "Website",
+				"url": "https://betdice.one"
+			},
+			{
+				"name": "Telegram",
+				"url": "https://t.me/betdice"
+			},
+			{
+				"name": "Twitter",
+				"url": "https://t.me/betdice"
+			}
+		]
 	}
 ]
