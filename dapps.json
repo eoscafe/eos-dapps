@@ -171,7 +171,7 @@
     "name": "Chintai",
     "description": "Chintai is a community-owned, feeless, 100% on-chain, multisig decentralized token leasing platform where users can lend their EOS on the market to earn interest from other users to borrow who need access to CPU/NET bandwidth.",
     "symbol": "",
-    "accounts": ["chintailease"],
+    "accounts": ["chintailease", "chintaiproxy"],
     "logo": "https://chintai.io/static/images/chinta-icon-black.jpg",
     "links": [{
         "name": "Website",
