@@ -109,4 +109,18 @@
 	"medium": "https://medium.com/@ChintaiEOS",
         "twitter": "https://twitter.com/chintaieos",
 	"github": ""
+},
+{
+        "name": "EOS Name Swaps",
+        "description": "An open-source EOS account exchange that puts the security of its users first.",
+        "symbol": "",
+        "accounts": ["eosnameswaps", ""],
+        "logo": "https://www.eosnameswaps.com/images/ens_logo.jpg",
+        "website": "https://www.eosnameswaps.com/?ref=bloks",
+        "app": "https://www.eosnameswaps.com/?ref=bloks",
+        "telegram": "https://t.me/eosnameswaps",
+		"medium": "",
+        "twitter": "https://twitter.com/Starry3017Night",
+		"github": "https://github.com/StarryJapanNight/eosnameswaps"
 }]
+
