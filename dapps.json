@@ -114,7 +114,7 @@
         "name": "EOS Name Swaps",
         "description": "An open-source EOS account exchange that puts the security of its users first.",
         "symbol": "",
-        "accounts": ["eosnameswaps", ""],
+        "accounts": ["eosnameswaps"],
         "logo": "https://www.eosnameswaps.com/images/ens_logo.jpg",
         "website": "https://www.eosnameswaps.com/?ref=bloks",
         "app": "https://www.eosnameswaps.com/?ref=bloks",
