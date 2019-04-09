@@ -106,15 +106,15 @@ export default [{
 {
   'name': 'Chintai',
   'description': 'Chintai is a community-owned, feeless, 100% on-chain, multisig decentralized token leasing platform where users can lend their EOS on the market to earn interest from other users to borrow who need access to CPU/NET bandwidth.',
-  'symbol': '',
-  'accounts': ['chintailease', 'chintaiproxy'],
-  'logo': 'https://chintai.io/static/images/chinta-icon-black.jpg',
+  'symbol': 'CHEX',
+  'accounts': ['chintailease', 'chintaiproxy', 'bidchextoken', 'chexchexchex'],
+  'logo': 'https://chintai.io/images/chintai-icon.png',
   'website': 'http://chintai.io',
-  'app': 'https://eos.chintai.io/exchange/EOS14D',
+  'app': 'https://eos.chintai.io/exchange/EOS28D',
   'telegram': 'https://t.me/ChintaiEOS',
   'medium': 'https://medium.com/@ChintaiEOS',
   'twitter': 'https://twitter.com/chintaieos',
-  'github': ''
+  'github': 'https://github.com/chintai-platform'
 },
 {
   'name': 'EOS Name Swaps',
