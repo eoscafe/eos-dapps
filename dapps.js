@@ -128,4 +128,19 @@ export default [{
   'medium': '',
   'twitter': 'https://twitter.com/Starry3017Night',
   'github': 'https://github.com/StarryJapanNight/eosnameswaps'
-}]
+},
+{
+  'name': 'CRONEOS',
+  'description': 'Croneos is a trustless protocol to schedule future work similar to the deprecated deferred transactions. Dapps submit their jobs to an on-chain pool, miners execute the jobs and receive rewards.',
+  'symbol': 'CRON',
+  'accounts': ['cron.eos', 'token.cron', 'stake.cron'],
+  'logo': 'https://raw.githubusercontent.com/eoscafe/eos-dapps/master/logos/croneos.png',
+  'website': '',
+  'app': 'https://croneos.io',
+  'telegram': 'https://t.me/croneos',
+  'medium': '',
+  'twitter': '',
+  'github': 'https://github.com/CRONEOS'
+}
+
+]
